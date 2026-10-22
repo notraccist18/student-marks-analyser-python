@@ -1,0 +1,12 @@
+Student Marks Report
+Aarav - Total: 253, Average: 84.33, Grade: B
+Priya - Total: 275, Average: 91.67, Grade: A
+Rohan - Total: 203, Average: 67.67, Grade: C
+Sneha - Total: 234, Average: 78.00, Grade: B
+Karan - Total: 173, Average: 57.67, Grade: D
+Ananya - Total: 265, Average: 88.33, Grade: B
+Vikram - Total: 146, Average: 48.67, Grade: D
+Meera - Total: 238, Average: 79.33, Grade: B
+
+Topper: Priya
+Class average: 74.46
